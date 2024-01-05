@@ -1,2 +1,5 @@
-# finance_calculator
-Two finance calculators - investment payout or monthly home loan repayments
+# Personal finance calculator (beta)
+
+Two finance calculators:
+* Investment payout, or 
+* Monthly home loan repayments
