@@ -1,6 +1,6 @@
 # author:   spamdroner@icloud.com
 # date:     16th - 23rd October 2022
-# desc:     Capstone project: investment and home loan repayment calculator
+# desc:     Investment and home loan repayment calculator
 
 import math 
 
